@@ -3,6 +3,11 @@ import java.util.Scanner;
 
 public class GitPractise {
     public static void main(String[] args) {
+
+
+        // BMW annual invitation guestlist
+
+
         ArrayList<String> names = new ArrayList<>();
 
         names.add("Sarah");
