@@ -19,6 +19,7 @@ public class GitPractise {
         names.add("Ahmet");
         names.add("Talha");
 
+
         Scanner scanner = new Scanner(System.in);
         boolean foundName = false;
         System.out.println("Welcome to BMW annual event!!");
