@@ -7,6 +7,8 @@ public class GitPractise {
 
         // BMW annual invitation guestlist
 
+        // added new lines here
+
 
         ArrayList<String> names = new ArrayList<>();
 
